@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SampleTestProj</string>
+    <string name="title">SampleTestProject.com</string>
+    <string name="login_guest">Enter Guest Name</string>
+    <string name="btn_continue">Continue</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
